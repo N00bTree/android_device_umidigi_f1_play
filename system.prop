@@ -1,0 +1,5 @@
+ro.product.brand=UMIDIGI
+ro.product.name=F1_Play
+ro.product.device=F1_Play
+ro.build.product=F1_Play
+ro.treble.enabled=true
